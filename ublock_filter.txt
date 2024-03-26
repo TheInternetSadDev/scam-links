@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-24T14:01:18Z
+! Updated: 2024-03-26T13:44:55Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -340,6 +340,7 @@ airdrop-zkfair.network
 airdrop.homes
 airdroplayerzero.top
 airdroploot.com
+airdroppolyhedra.foundation
 airdrops-shardeum.org
 airdrops-taikos.xyz
 airdrops.ooo
@@ -378,6 +379,7 @@ allocations-polyhedra.network
 allthetraffic.co.cc
 alm-gaming.com
 aloha-news.net
+alonexo.com
 alpha-capital-club.com
 alpha-olivexgenesis.io
 alphacoinex.com
@@ -1014,6 +1016,7 @@ beta-hypesquad.com
 beta-invite.app
 beta-invite.com
 beta-news.org
+beta-polyhedra-io.com
 beta-profile.app
 beta-profile.com
 beta-roblox.com
@@ -1265,6 +1268,7 @@ boredapevachtclub.com
 bot-captcha-verify.online
 bot-captcha-verify.site
 bot-captcha.com
+bot-captcha.fr
 bot-captcha.online
 bot-captchadev.ru
 bot-defender.online
@@ -1731,6 +1735,7 @@ casino-royal.cfd
 catacult.online
 catbeardx.com
 catcha-verify.info
+catchaverifybot.ru
 catsnthing.com
 cautsufguimybe.gq
 cave-nitro.com
@@ -1829,6 +1834,7 @@ claim-link.io
 claim-manatoken.com
 claim-manta.network
 claim-polyhedra.net
+claim-polyhedra.org
 claim-porkcoin.org
 claim-quant.com
 claim-satoshivm.app
@@ -1996,6 +2002,7 @@ collabbland.com
 collabl.land
 collabland-assest.com
 collabland-connect.top
+collabland-connect.wiki
 collabland-security.com
 collabland-sync.dev
 collabland-wallet.com
@@ -2354,6 +2361,7 @@ cs2-cn.com
 cs2-connect.com
 cs2-esl.com
 cs2-events.com
+cs2-fastcup.ru
 cs2-freeacces.pro
 cs2-gift.com
 cs2-global.com
@@ -2929,6 +2937,7 @@ csgomoney-trade.info
 csgomoney.online
 csgomoney.pw
 csgomouse.com
+csgonavier.com
 csgonewtesting.com
 csgoo.net
 csgop2p.org
@@ -3167,6 +3176,7 @@ dcsordse-drops.gq
 dcverifybot.xyz
 ddiscord-cam.ru
 ddiscord.com
+de-fi-investing.pages.dev
 de-phottan.info
 de-roblox.com
 de-spushtan-genehmigung-2.xyz
@@ -3204,6 +3214,7 @@ deshevil.xyz
 detectbots.click
 detectspam.click
 dev-discord.com
+dev-loyalty-polyhedra.network
 dev-pgclaim.pantheonsite.io
 devdiscord.com
 developer-bot.com
@@ -3220,6 +3231,7 @@ devforum-roblox.com
 devforum-roblox.ru
 devloper-team.info
 devlopers.info
+devloyaltypolyhedra.network
 devtools-api.com
 dewapanel.my.id
 dexautomate.web.app
@@ -7545,6 +7557,8 @@ dominospizza-nl.com
 dominospizzanl.com
 donk-esports.com
 donk-prime.net
+donk-prize.com
+donk-rolling.com
 donkrolls.org
 doomislands.xyz
 dopaminedop.pages.dev
@@ -7596,6 +7610,7 @@ drop-satoshivm.com
 drop-satoshivm.io
 drop-twltchs.com
 drop-valorant.pro
+drop-x-rain.top
 drop-xplay.top
 drop.net.ru
 drop.org.ru
@@ -8309,6 +8324,7 @@ esports-twltchs.com
 esportsarenagg.com
 esportsfast.pp.ua
 esportsgvay.xyz
+esportsplaymasters.com
 esporttwitch.com
 esporttwltch.com
 espots-csgo.xyz
@@ -8962,6 +8978,7 @@ foxcryptoby.com
 foxechange.com
 foxmods.xyz
 fps-booster.pw
+fr-authacces.com
 fr3e-verify-g1ft-2024.ru
 fragdiscord.online
 fredis-nitro.gq
@@ -9286,6 +9303,7 @@ get-nitro.org
 get-nitro.xyz
 get-nitrogift.com
 get-nltro.com
+get-polyhedra.com
 get-premiumgift.com
 get-premiums.com
 get-reward.eu.org
@@ -9696,6 +9714,7 @@ gogofiles.net
 goharpc.com
 goldcarrotwork.ru
 goldwincsgo.space
+golrklasdmk.ru
 goo-gl.me
 good-csgo-steam.ru
 gooniezgang.tech
@@ -9783,6 +9802,7 @@ halitaoz.cam
 hallowen-nitro.com
 halo-analyse.web.app
 halo-meta.com
+halo-paperhands.pages.dev
 halo-portfolio.web.app
 halo-track.web.app
 haloinfinite.shop
@@ -11252,6 +11272,7 @@ kavashield.club
 kavashield.org
 kavashield.top
 kavashield.xyz
+kavaverify.support
 kavaverse.xyz
 kavaxyz.one
 kaysdrop.ru
@@ -11611,6 +11632,7 @@ low1cost.store
 lowblind.com
 loyal.charity
 loyal.wf
+loyalty-polyhedra.network
 loyaltys.online
 loycoins.com
 lp3xc.site
@@ -11955,6 +11977,7 @@ mee6premium.io
 mee6pro.com
 mee6redirect.com
 mee6redirect.xyz
+mee6site.xyz
 mee6verif.com
 mee6verification.com
 mee6verify.com
@@ -12399,12 +12422,15 @@ mysearchflow.com
 myskincsgo.site
 mysofinance.net
 mysofinancing.com
+mysrerybox.vercel.app
 mysterubox.vercel.app
 mystery-clouds.com
 mystery-nftbox.com
+mysterybocsr.vercel.app
 mysterybox-nft.online
 mysterybox099.vercel.app
 mysterybox11.vercel.app
+mysterybox1111.vercel.app
 mysterybox1122.vercel.app
 mysterybox113.vercel.app
 mysterybox219.vercel.app
@@ -12415,11 +12441,13 @@ mysterybox612.vercel.app
 mysterybox643.vercel.app
 mysterybox6722.vercel.app
 mysterybox6771.vercel.app
+mysterybox7269.vercel.app
 mysterybox728.vercel.app
 mysterybox745.vercel.app
 mysterybox76275.vercel.app
 mysterybox7787.vercel.app
 mysterybox8277.vercel.app
+mysterybox8376.vercel.app
 mysteryboxclaim.vercel.app
 mysteryboxes882.vercel.app
 mysteryboxnft43.vercel.app
@@ -12442,6 +12470,7 @@ n01.biz
 n06.biz
 na-discord.us
 na-vi.site
+naazfit.com
 nabu-faces.com
 nacjalneg.info
 nacybersportvi.ru
@@ -12953,6 +12982,7 @@ nikofreecase.com
 nikog2skins.com
 nikogivegiveskin.com
 nikoskins.com
+nim-rewards.network
 nip-gl.com
 nip1.ru
 nip10.ru
@@ -13450,6 +13480,7 @@ openclaimsd.vercel.app
 opendrop.io
 opengifts.space
 openlisiting.io
+openmysterybox44.vercel.app
 opennsea.pw
 opens-glft.ru
 opense.design
@@ -13648,6 +13679,7 @@ personalculturedflash.discordevents.repl.co
 petsimulator.info
 petty.link
 pfl.nqp.mybluehost.me
+pglopen.pro
 phantom-collab.vercel.app
 phygical-questall.icu
 picked-events.gq
@@ -13724,21 +13756,35 @@ polyguard.one
 polyguardian.web.app
 polyguards.github.io
 polyhedra-airdrop.network
+polyhedra-alchemy.com
+polyhedra-apps.com
+polyhedra-foundation.com
+polyhedra-foundation.org
+polyhedra-network.live
 polyhedra-network.vercel.app
 polyhedra.club
 polyhedra.finance
+polyhedra.ltd
 polyhedra.pw
 polyhedradrops.online
 polyhedrafoundation.com
 polyhedraguard.github.io
+polyhedranetworks.com
+polyhedraon.org
+polyhedraonline.com
+polyhedras-apps.com
 polyhedras.cc
 polyhedrasguard.web.app
 polyhedraswap.com
+polyhedrazk.net
+polyhedrazk.xyz
 polyhendra.com
 polyhymnia-mar.com
 pond0x-online.net
 ponderobot.com
 ponk.pro
+pool-nftproject.firebaseapp.com
+poolclaimnft.web.app
 pools-uniswap.network
 popsads.link
 popsicle.gift
@@ -13846,6 +13892,7 @@ prizendroll.com
 prizes-navi.pro
 prizesworldcenter.com
 pro-collab.land
+procaptchaverify.ru
 profi-para.com
 profile-442572242.online
 profilesteampowered.help
@@ -13863,6 +13910,7 @@ programs-hypesquad-signup.com
 programs-moderator.com
 project-mavia.com
 project-porkcoin.com
+projectclaim-nft.web.app
 projectnfts-opensea.vercel.app
 projectqql.com
 promarker.club
@@ -17485,6 +17533,7 @@ steam.workshopcommunityart.com
 steam00371.asia
 steam4you.online
 steam50-gift.com
+steam50gift.pro
 steamaccount.xyz
 steamaccounts.net
 steamaccounts.org
@@ -20993,6 +21042,7 @@ steamcomucnity.com
 steamcomueniity.ru
 steamcomuenity.com
 steamcomuenity.ru
+steamcomuenlty.com
 steamcomuinite.ru
 steamcomuinity.com
 steamcomuinity.ru
@@ -21194,6 +21244,7 @@ steamcomunninuty.com
 steamcomunniti.ru
 steamcomunnitiy.com
 steamcomunnitiy.ru
+steamcomunnitlly.com
 steamcomunnitly.com
 steamcomunnitly.pro
 steamcomunnitly.ru
@@ -27037,6 +27088,7 @@ teslafreemoney.com
 teslafund.live
 teslagive.live
 teslagiveaway.gift
+teslagives.org
 teslagives2023.com
 teslagives23.live
 teslago.net
@@ -27776,6 +27828,7 @@ umbrellajump.xyz
 unblckdiscord.cf
 undeads-alphas.com
 uni-swap-protocols.pages.dev
+uni-swap-v4.pages.dev
 uni-swap4.pages.dev
 unievent.plus
 uniswap.li
@@ -28861,6 +28914,7 @@ x2bonus.net
 x2crypto.org
 x2elon.org
 x2get.pro
+x2knife.com
 x2musk.io
 x2musk.org
 x2musk.xyz
@@ -29014,15 +29068,18 @@ zipsetgod.com
 zk-bridge.network
 zk-polyhedra.app
 zk-polyhedra.com
+zk-polyhedra.ltd
 zk-polyhedra.net
 zk-sync.pages.dev
 zkfair-launchpad.org
 zkfair.events
 zkfair.zone
+zkgirlpolyhedra.network
 zkloyalty.com
 zkpolyhedra.app
 zkpolyhedra.com
 zkpolyhedra.net
+zkpolyhedra.org
 zkpudgy.trading
 zks-nft.app
 zksync-era.pages.dev
